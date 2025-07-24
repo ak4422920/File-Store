@@ -11,7 +11,7 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>📂 <a href="https://t.me/AkMoviesHubBackup">{file_name}</a>
+    CAPTION = """<b><a href="https://t.me/AkMoviesHubBackup">{file_name}</a>
 
 ⚙️ sɪᴢᴇ : {file_size}
 
